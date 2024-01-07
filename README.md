@@ -15,4 +15,4 @@ untuk menyimpan data Customer dan fitur fitur yang kami buat kurang lebih sepert
 ## Detail Pembagian
 Halaman UI/UX dikerjakan bareng
 Ghani : Update,Delete
-Syafe : Create,Read
+Syafei : Create,Read
