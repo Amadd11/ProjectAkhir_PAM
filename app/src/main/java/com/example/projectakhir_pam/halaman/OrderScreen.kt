@@ -93,7 +93,7 @@ object OrderDestination : DestinasiNavigasi {
                             ) {
                                 Image(
                                     painter = painterResource(id = R.drawable.hotel_1),
-                                    contentDescription = "Plastic Bottle",
+                                    contentDescription = "Hotel Sanjaya",
                                     modifier = Modifier
                                         .padding(3.dp)
                                         .width(180.dp)
@@ -152,7 +152,7 @@ object OrderDestination : DestinasiNavigasi {
                             ) {
                                 Image(
                                     painter = painterResource(id = R.drawable.hotel_2),
-                                    contentDescription = "Plastic Bottle",
+                                    contentDescription = "Hotel Padjajaran",
                                     modifier = Modifier
                                         .padding(3.dp)
                                         .width(180.dp)
@@ -164,7 +164,7 @@ object OrderDestination : DestinasiNavigasi {
                                 Column(
                                 ) {
                                     Text(
-                                        text = "Hotel Sanjaya",
+                                        text = "Hotel Padjajaran",
                                         fontSize = 20.sp,
                                         fontWeight = FontWeight.Bold
                                     )
@@ -211,7 +211,7 @@ object OrderDestination : DestinasiNavigasi {
                             ) {
                                 Image(
                                     painter = painterResource(id = R.drawable.hotel_3),
-                                    contentDescription = "Plastic Bottle",
+                                    contentDescription = "Hotel Neo",
                                     modifier = Modifier
                                         .padding(3.dp)
                                         .width(180.dp)
@@ -223,7 +223,7 @@ object OrderDestination : DestinasiNavigasi {
                                 Column(
                                 ) {
                                     Text(
-                                        text = "Hotel Sanjaya",
+                                        text = "Hotel Neo",
                                         fontSize = 20.sp,
                                         fontWeight = FontWeight.Bold
                                     )
@@ -270,7 +270,7 @@ object OrderDestination : DestinasiNavigasi {
                             ) {
                                 Image(
                                     painter = painterResource(id = R.drawable.hotel_4),
-                                    contentDescription = "Plastic Bottle",
+                                    contentDescription = "Hotel Ryu",
                                     modifier = Modifier
                                         .padding(3.dp)
                                         .width(180.dp)
@@ -282,7 +282,7 @@ object OrderDestination : DestinasiNavigasi {
                                 Column(
                                 ) {
                                     Text(
-                                        text = "Hotel Sanjaya",
+                                        text = "Hotel Ryu",
                                         fontSize = 20.sp,
                                         fontWeight = FontWeight.Bold
                                     )
