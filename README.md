@@ -2,7 +2,7 @@
 Reservasi Hotel
 
 ## Project Description
-Aplikasi ini menjadi sebuah platform penyedia layanan Reservasi Hotel untuk memudahkan pengguna yang sedang bepergian untuk mencari penginapan yang nyaman,aman, dan harga yang sesuai dengan kantong.Pada Aplikasi ini kami menggunakan Firebase 
+Aplikasi ini menjadi sebuah platform penyedia layanan Reservasi Hotel untuk memudahkan pengguna yang sedang bepergian untuk mencari penginapan yang nyaman,aman, dan harga yang sesuai dengan kantong.Pada Aplikasi ini kami menggunakan RoomDatabase 
 untuk menyimpan data Customer dan fitur fitur yang kami buat kurang lebih seperti yang ada di Use Case.
 
 ## Use Case
